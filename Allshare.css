@@ -1,0 +1,23 @@
+    /* Modifications globales */
+    /* Couleur principale */
+    
+     :root {
+        --couleur-principale: #184a80;
+        --couleur-link: #184a80;
+        --couleur-principale-rgba: #184a80;
+        --couleur-ligne-totale: #c70039;
+        --couleur-hover: #FFC300;
+        --couleur-danger: #c70039;
+        --couleur-dtree-niv0: #c1c7ce;
+        --couleur-dtree-niv1: rgb(204, 209, 215);
+        --couleur-dtree-niv2: rgb(216, 220, 225);
+        --couleur-dtree-niv3: rgb(222, 226, 229);
+        --couleur-dtree-niv4: rgb(230, 233, 236);
+        --couleur-dtree-niv5: rgb(240, 242, 243);
+    }
+    
+    .t-Header-branding {
+        border-top-width: 30px;
+        border-top-style: solid;
+        border-top-color: var(--couleur-link);
+    }
